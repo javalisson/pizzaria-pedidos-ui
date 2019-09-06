@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Calabresa",
+    "id": "calabresa",
+    "img_sabor": "/images/imagem-pizza.png",
+    "img_hero": "/images/imagem-pizza-2.png",
+    "ingredientes": ["queijo", "calabresa", "cebola", "pimenta"],
+    "preco": 34.90
+  },
+  {
+    "nome": "Portuguesa",
+    "id": "portuguesa",
+    "img_sabor": "/images/imagem-pizza.png",
+    "img_hero": "/images/imagem-pizza-2.png",
+    "ingredientes": ["queijo", "presunto", "cebola", "ovo cozido", "azeitona"],
+    "preco": 39.90
+  },
+  {
+    "nome": "Marguerita",
+    "id": "marguerita",
+    "img_sabor": "/images/imagem-pizza.png",
+    "img_hero": "/images/imagem-pizza-2.png",
+    "ingredientes": ["queijo", "tomate", "manjericão"],
+    "preco": 29.90
+  },
+  {
+    "nome": "Quatro Queijos",
+    "id": "quatro-queijos",
+    "img_sabor": "/images/imagem-pizza.png",
+    "img_hero": "/images/imagem-pizza-2.png",
+    "ingredientes": ["mussarela", "gorgonzola", "parmezão", "catupiry"],
+    "preco": 44.90
+  }
+]
