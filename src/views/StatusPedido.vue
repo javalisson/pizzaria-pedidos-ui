@@ -14,6 +14,11 @@
         Avalie nosso serviço!
       </button>
     </div>
+    <div class="col-12 mt-5">
+      <router-link to="/sabores">
+        Faça um novo pedido
+      </router-link>
+    </div>
   </div>
 </template>
 
